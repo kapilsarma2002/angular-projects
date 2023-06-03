@@ -1,0 +1,11 @@
+identifier: l9idg55b3df6756d
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: C:\Users\sarma\Documents\Projects\angular\my-blog
+distFolder: dist/my-blog
+outDir: C:\Users\sarma\Documents\Projects\angular\my-blog\dist\static
+handle404: ''
+allowErrorCollect: true
